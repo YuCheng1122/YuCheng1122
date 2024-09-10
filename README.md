@@ -1,3 +1,2 @@
 # **Self Introduction**
-Hi there, I'm Tommy, a fourth-year student majoring in Information and Finance Management at the National Taipei University of Technology.
-
+Hi there, I’m Tommy, a first-year Master's student in the Department of Computer Science and Information Engineering at the National Taiwan University of Science and Technology (NTUST). I am currently working part-time as a Cyber Threat Intelligence (CTI) Engineer at Wistron NeWeb Corporation (WNC) and remotely in Cybersecurity at AIXSOAR, where I focus on threat hunting and reducing false alerts using Machine Learning techniques.
