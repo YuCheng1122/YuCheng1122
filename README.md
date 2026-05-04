@@ -33,13 +33,6 @@
 ![](https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
-## 📈 My GitHub Stats
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YuCheng1122&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuCheng1122&show_icons=true&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
 ## 💌 How to reach me
 
 - 📧 Email: [yuchlin00@gmail.com](mailto:yuchlin00@gmail.com)
