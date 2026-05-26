@@ -11,7 +11,7 @@
   <li>🎓 M.S. student at <b>National Taiwan University of Science and Technology</b>.</li>
   <li>🤖 Working on AI applications — from LLM-powered systems to deep learning for security.</li>
   <li>🥑 Founding Engineer at <a href="https://www.avocadolab.ai/en">AvocadoAI</a>.</li>
-  <li>📝 Publications at <a href="https://dl.acm.org/doi/10.1145/3733821.3763028"><b>ACM CCS 2025</b></a> and <a href="https://drive.google.com/file/d/1Fa59V6ZC13UnW04hjdzYaQQ1sjXr663v/view?usp=sharing"><b>CISC 2026</b></a> on cross-architecture malware analysis.</li>
+  <li>📝 Publications at <a href="https://dl.acm.org/doi/10.1145/3733821.3763028"><b>ACM CCS 2025</b></a> and <a href="https://drive.google.com/file/d/1uwrSvng--NruFMMjuOCcfyNkVL6i_4pV/view?usp=sharing"><b>CISC 2026</b></a> on cross-architecture malware analysis.</li>
   <li>☕ Happy to chat about AI, ML systems, or building things from zero to one.</li>
 </ul>
 
