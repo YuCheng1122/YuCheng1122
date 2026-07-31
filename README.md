@@ -42,12 +42,6 @@
 
 - ☁️ **AWS Certified Solutions Architect – Associate** — [Credly Badge](https://www.credly.com/badges/b02faedb-c2b9-4123-a926-3b049b78652f)
 
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YuCheng1122&show_icons=true&theme=radical" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuCheng1122&layout=compact&theme=radical" height="165" alt="Top languages"/>
-</p>
-
 ## 💌 How to reach me
 - 📧 Email: [yuchlin00@gmail.com](mailto:yuchlin00@gmail.com)
 - 💼 LinkedIn: [Yucheng Lin](https://www.linkedin.com/in/yucheng-lin/)
