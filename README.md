@@ -15,7 +15,7 @@
 </ul>
 
 ## 📝 Publications
-- **PST 2026** — Domain Adaptation for Cross-Architecture IoT Malware Detection under Data Scarcity [[link]](https://pstnet.ca/pst2026/acceptedpapers.html#:~:text=Domain%20Adaptation%20for%20Cross%2DArchitecture%20IoT%20Malware%20Detection%20under%20Data%20Scarcity)
+- **IEEE PST 2026** — Domain Adaptation for Cross-Architecture IoT Malware Detection under Data Scarcity [[link]](https://pstnet.ca/pst2026/acceptedpapers.html#:~:text=Domain%20Adaptation%20for%20Cross%2DArchitecture%20IoT%20Malware%20Detection%20under%20Data%20Scarcity)
 - **CISC 2026** — Cross-Architecture Malware Analysis [[PDF]](https://drive.google.com/file/d/1uwrSvng--NruFMMjuOCcfyNkVL6i_4pV/view?usp=sharing)
 - **ACM CCS 2025** — Cross-Architecture IoT Malware Analysis Using P-Code Intermediate Representation [[link]](https://dl.acm.org/doi/10.1145/3733821.3763028)
 
