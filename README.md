@@ -13,7 +13,7 @@ I hold an M.S. in Computer Science and Information Engineering from National Tai
 
 ## Publications
 
-- **Domain Adaptation for Cross-Architecture IoT Malware Detection under Data Scarcity** — IEEE PST, 2026. [Paper listing]([https://pstnet.ca/pst2026/acceptedpapers.html](https://pstnet.ca/pst2026/acceptedpapers.html#:~:text=Domain%20Adaptation%20for%20Cross%2DArchitecture%20IoT%20Malware%20Detection%20under%20Data%20Scarcity)) · [Code](https://github.com/YuCheng1122/PCBSDA)
+- **Domain Adaptation for Cross-Architecture IoT Malware Detection under Data Scarcity** — IEEE PST, 2026. [Paper listing](https://pstnet.ca/pst2026/acceptedpapers.html#:~:text=Domain%20Adaptation%20for%20Cross%2DArchitecture%20IoT%20Malware%20Detection%20under%20Data%20Scarcity) · [Code](https://github.com/YuCheng1122/PCBSDA)
 - **Cross-Architecture IoT Malware Analysis Using P-Code Intermediate Representation** — ARTMAN workshop, 2025. [Paper](https://dl.acm.org/doi/10.1145/3733821.3763028)
 
 [Email](mailto:yuchlin00@gmail.com) · [LinkedIn](https://www.linkedin.com/in/yucheng-lin/)
