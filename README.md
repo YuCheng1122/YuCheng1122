@@ -1,47 +1,19 @@
-<div align="center">
-   <h1>Hi, I'm Tommy 👋</h1>
-</div>
-<div align="center">
-<h3>🤖 Yu-Cheng Lin | AI Engineer | 🏠 Taipei, Taiwan</h3>
-</div>
+# Yu-Cheng Lin (Tommy)
 
-## About Me
-<ul>
-  <li>🎓 M.S. student at <b>National Taiwan University of Science and Technology</b>.</li>
-  <li>🤖 Working on AI applications — from LLM-powered systems to deep learning for security.</li>
-  <li>🥑 Founding Engineer at <a href="https://www.avocadolab.ai/en">AvocadoAI</a>.</li>
-  <li>🏋️ Into fitness and gaming when I'm not coding.</li>
-  <li>☕ Happy to chat about AI, ML systems, or building things from zero to one.</li>
-</ul>
+Founding Software Engineer at [AvocadoAI](https://www.avocadolab.ai/en), building software for security analysis and LLM-assisted investigation.
 
-## 📝 Publications
-- **IEEE PST 2026** — Domain Adaptation for Cross-Architecture IoT Malware Detection under Data Scarcity [[link]](https://pstnet.ca/pst2026/acceptedpapers.html#:~:text=Domain%20Adaptation%20for%20Cross%2DArchitecture%20IoT%20Malware%20Detection%20under%20Data%20Scarcity)
-- **CISC 2026** — Cross-Architecture Malware Analysis [[PDF]](https://drive.google.com/file/d/1uwrSvng--NruFMMjuOCcfyNkVL6i_4pV/view?usp=sharing)
-- **ACM CCS 2025** — Cross-Architecture IoT Malware Analysis Using P-Code Intermediate Representation [[link]](https://dl.acm.org/doi/10.1145/3733821.3763028)
+I hold an M.S. in Computer Science and Information Engineering from National Taiwan University of Science and Technology. My research focuses on cross-architecture IoT malware detection and model robustness.
 
-## 🛠 Languages and Tools
-![](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![](https://img.shields.io/badge/-Node.js-6cc24a?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![](https://img.shields.io/badge/-Ghidra-FF6B35?style=for-the-badge&logoColor=white)
-![](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+## Selected work
 
-## 🏆 Certifications
-<a href="https://www.credly.com/badges/b02faedb-c2b9-4123-a926-3b049b78652f">
-  <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/linkedin_thumb_image.png" width="120" alt="AWS Certified Solutions Architect – Associate"/>
-</a>
+- **Security analysis systems** — telemetry integration, LLM-assisted event triage, and full-stack development at AvocadoAI.
+- **[PCBSDA](https://github.com/YuCheng1122/PCBSDA)** — P-Code representations, graph learning, and domain adaptation for cross-architecture IoT malware detection.
+- **Malware detector robustness** — evaluating CFG- and opcode-based detectors under binary modification and adversarial perturbations.
+- **StockLight** — a university capstone combining stock market data with generative AI; first place in the 2024 department project competition. [Frontend](https://github.com/YuCheng1122/stock-market-votive-candles-website) · [Backend](https://github.com/YuCheng1122/FinalReportStockAnalyze)
 
-- ☁️ **AWS Certified Solutions Architect – Associate** — [Credly Badge](https://www.credly.com/badges/b02faedb-c2b9-4123-a926-3b049b78652f)
+## Publications
 
-## 💌 How to reach me
-- 📧 Email: [yuchlin00@gmail.com](mailto:yuchlin00@gmail.com)
-- 💼 LinkedIn: [Yucheng Lin](https://www.linkedin.com/in/yucheng-lin/)
+- **Domain Adaptation for Cross-Architecture IoT Malware Detection under Data Scarcity** — IEEE PST, 2026. [Paper listing](https://pstnet.ca/pst2026/acceptedpapers.html) · [Code](https://github.com/YuCheng1122/PCBSDA)
+- **Cross-Architecture IoT Malware Analysis Using P-Code Intermediate Representation** — ARTMAN workshop, 2025. [Paper](https://dl.acm.org/doi/10.1145/3733821.3763028)
+
+[Email](mailto:yuchlin00@gmail.com) · [LinkedIn](https://www.linkedin.com/in/yucheng-lin/)
