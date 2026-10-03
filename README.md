@@ -1,4 +1,8 @@
-# Hello I am Yu-Cheng Lin (Tommy)
+# Hi, I'm Yu-Cheng Lin (Tommy)
+
+Information and Finance Management | AI and Security
+
+---
 
 I studied Information and Finance Management. My graduation project, StockLight, combines stock market data with generative AI.
 
